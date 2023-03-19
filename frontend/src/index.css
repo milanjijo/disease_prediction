@@ -1,0 +1,7 @@
+.navcontainer{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  max-height: 10%;
+  background-color: antiquewhite;
+}
